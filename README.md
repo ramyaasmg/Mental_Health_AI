@@ -32,7 +32,3 @@ The mission of Manas is to promote mental well-being by providing accessible, im
 
 **Conclusion:**
 Manas is more than just a chatbot; it is a companion on the journey to mental wellness. With its user-centric design and commitment to empathy, Manas empowers individuals to take charge of their mental health and find the support they deserve.
-
---- 
-
-Feel free to modify any part of this description to better fit your vision for Manas!
